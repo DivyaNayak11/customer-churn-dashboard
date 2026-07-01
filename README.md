@@ -19,4 +19,4 @@ This report includes:
 -Strategic Recommendations
 
 ## Dashboard Preview
-![Click to open](
+![Click to open](customer_churn_dashboard_preview.png)
